@@ -1,0 +1,14 @@
+Private Sub webicons()
+        Dim a As WebClient
+        Dim x As New MemoryStream(a.DownloadData("http://" & New Uri(WebBrowser1.Url.ToString).Host & "/favicon.ico"))
+        Dim icon As New Icon(x)
+        If ImageList1.Images.Count = -1 Then
+            ImageList1.Images.Add(icon.ToBitmap)
+            TabControl1.SelectedTab.ImageIndex = 0
+        Else
+            ImageList1.Images.Clear()
+            ImageList1.Images.Add(icon.ToBitmap)
+            TabControl1.SelectedTab.ImageIndex = 0
+
+        End If
+    End Sub

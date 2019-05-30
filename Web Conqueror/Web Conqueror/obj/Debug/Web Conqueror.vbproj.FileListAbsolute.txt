@@ -1,0 +1,71 @@
+c:\users\elhouusin\documents\visual studio 2012\Projects\Web Conqueror\Web Conqueror\bin\Debug\Web Conqueror.exe.config
+c:\users\elhouusin\documents\visual studio 2012\Projects\Web Conqueror\Web Conqueror\obj\Debug\Web_Conqueror.Form1.resources
+c:\users\elhouusin\documents\visual studio 2012\Projects\Web Conqueror\Web Conqueror\obj\Debug\Web_Conqueror.Resources.resources
+c:\users\elhouusin\documents\visual studio 2012\Projects\Web Conqueror\Web Conqueror\obj\Debug\Web Conqueror.vbproj.GenerateResource.Cache
+c:\users\elhouusin\documents\visual studio 2012\Projects\Web Conqueror\Web Conqueror\bin\Debug\Web Conqueror.exe
+c:\users\elhouusin\documents\visual studio 2012\Projects\Web Conqueror\Web Conqueror\bin\Debug\Web Conqueror.pdb
+c:\users\elhouusin\documents\visual studio 2012\Projects\Web Conqueror\Web Conqueror\bin\Debug\Web Conqueror.xml
+c:\users\elhouusin\documents\visual studio 2012\Projects\Web Conqueror\Web Conqueror\obj\Debug\Web Conqueror.exe
+c:\users\elhouusin\documents\visual studio 2012\Projects\Web Conqueror\Web Conqueror\obj\Debug\Web Conqueror.xml
+c:\users\elhouusin\documents\visual studio 2012\Projects\Web Conqueror\Web Conqueror\obj\Debug\Web Conqueror.pdb
+E:\super tech\Web Conqueror\Web Conqueror\obj\Debug\Web_Conqueror.Form1.resources
+E:\super tech\Web Conqueror\Web Conqueror\obj\Debug\Web_Conqueror.Resources.resources
+E:\super tech\Web Conqueror\Web Conqueror\obj\Debug\Web Conqueror.vbproj.GenerateResource.Cache
+E:\super tech\Web Conqueror\Web Conqueror\obj\Debug\Web_Conqueror.settings.resources
+E:\super tech\Web Conqueror\Web Conqueror\bin\Debug\Bobbert browser.exe.config
+E:\super tech\Web Conqueror\Web Conqueror\bin\Debug\Bobbert browser.exe
+E:\super tech\Web Conqueror\Web Conqueror\bin\Debug\Bobbert browser.pdb
+E:\super tech\Web Conqueror\Web Conqueror\bin\Debug\Bobbert browser.xml
+E:\super tech\Web Conqueror\Web Conqueror\obj\Debug\Web_Conqueror.downloader.resources
+E:\super tech\Web Conqueror\Web Conqueror\obj\Debug\Bobbert browser.exe
+E:\super tech\Web Conqueror\Web Conqueror\obj\Debug\Bobbert browser.xml
+E:\super tech\Web Conqueror\Web Conqueror\obj\Debug\Bobbert browser.pdb
+E:\super tech\Web Conqueror\Web Conqueror\obj\Debug\Web_Conqueror.notebad.resources
+E:\super tech\Web Conqueror\Web Conqueror\obj\Debug\Web_Conqueror.my_calculator.resources
+E:\super tech\Web Conqueror\Web Conqueror\obj\Debug\Web_Conqueror.socialmedia.resources
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\Web Conqueror.vbproj.GenerateResource.Cache
+E:\Bobert\Web Conqueror\Web Conqueror\bin\Debug\ST browser.exe.config
+E:\Bobert\Web Conqueror\Web Conqueror\bin\Debug\ST browser.exe
+E:\Bobert\Web Conqueror\Web Conqueror\bin\Debug\ST browser.pdb
+E:\Bobert\Web Conqueror\Web Conqueror\bin\Debug\ST browser.xml
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST browser.exe
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST browser.xml
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST browser.pdb
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.downloader.resources
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.Form1.resources
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.history.resources
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.my_calculator.resources
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.Resources.resources
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.notebad.resources
+E:\Bobert\Web Conqueror\Web Conqueror\bin\Debug\ST browser.exe.manifest
+E:\Bobert\Web Conqueror\Web Conqueror\bin\Debug\ST browser.application
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST browser.exe.manifest
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST browser.application
+E:\Bobert\Web Conqueror\Web Conqueror\bin\Debug\Interop.WMPLib.dll
+E:\Bobert\Web Conqueror\Web Conqueror\bin\Debug\AxInterop.WMPLib.dll
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\Interop.WMPLib.dll
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\AxInterop.WMPLib.dll
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\Web Conqueror.vbproj.ResolveComReference.cache
+E:\Bobert\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.media_player.resources
+E:\ST systems\Web Conqueror\Web Conqueror\bin\Debug\ST browser.exe.config
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\Interop.WMPLib.dll
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\AxInterop.WMPLib.dll
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\Web Conqueror.vbproj.ResolveComReference.cache
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\ST browser.exe
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\ST browser.xml
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\ST browser.pdb
+E:\ST systems\Web Conqueror\Web Conqueror\bin\Debug\ST browser.exe.manifest
+E:\ST systems\Web Conqueror\Web Conqueror\bin\Debug\ST browser.application
+E:\ST systems\Web Conqueror\Web Conqueror\bin\Debug\ST browser.exe
+E:\ST systems\Web Conqueror\Web Conqueror\bin\Debug\ST browser.pdb
+E:\ST systems\Web Conqueror\Web Conqueror\bin\Debug\ST browser.xml
+E:\ST systems\Web Conqueror\Web Conqueror\bin\Debug\Interop.WMPLib.dll
+E:\ST systems\Web Conqueror\Web Conqueror\bin\Debug\AxInterop.WMPLib.dll
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.downloader.resources
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.Form1.resources
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.history.resources
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.Resources.resources
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\Web Conqueror.vbproj.GenerateResource.Cache
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\ST browser.exe.manifest
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\ST browser.application
+E:\ST systems\Web Conqueror\Web Conqueror\obj\Debug\ST_browser.Form2.resources

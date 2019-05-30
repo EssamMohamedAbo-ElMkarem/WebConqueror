@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ST browser.exe" version="1.0.0.0" publicKeyToken="26ea41aa3246e153" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="1464827001_rgb.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ST browser" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ST browser.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.WMPLib.dll" size="53760">
+      <assemblyIdentity name="AxInterop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>cjH1+WXQyX9ftV6DzKqPTTO+cKKH0hnI2taM4I/gvBg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.WMPLib.dll" size="331264">
+      <assemblyIdentity name="Interop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>jbVca14YOD1xogWGsC1zS9inS7olvqGzd3S6KNuiffI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ST browser.exe" size="1906688">
+      <assemblyIdentity name="ST browser" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>dVa06+5qmI7+24hqxcn9NtrgSgWM1UDo11pFKoWRr00=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="1464827001_rgb.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YLOcThtlp2/U7etBGnlMd+R1ojtIgPUXLyQRG++mMZY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ST browser.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ESSAMMOHAMED\elhouusin" issuerKeyHash="5776d10cbcbbfef882151d69f3211e3b58b23e76" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LVAo1QiSMLh/s04LiUWqz/AvrH1cXqh9qcdF3C4RBj0=</DigestValue></Reference></SignedInfo><SignatureValue>vzuIlUiJjlZkYURBbFvKflixDQ+x7PyRqO+uL2PjmzK9KJgje1JSuXNAjKrsOMT4d09tQPNW6wALSFh2IOKJp5AR/vxsO86zvaOtW4s/ncukFx04pXnzf128HML/kprSNkYf22lOYYpDth2N1/H558xuWYQAw99VMt7ZVsiOOmQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1iiMdbAKH5ytUzk+NQdVJx0/J82HwlQxLMEye2XHkSqpLmTxbIj5VeEKMUBkAhaMNsSBLnGARq/w485OQh9vhju+HYT9Vw6mLD8lzx7bCMbV1iYQcYQqrjlsjVx94Jc5Li+MDvKpsl+7jCgtx9q8UfYthEYSIQjCKc6hGq67JpU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3d06112edc45c7a97da85e5c7dac2ff0cfaa45890b4eb37fb8309208d528502d" Description="" Url=""><as:assemblyIdentity name="ST browser.exe" version="1.0.0.0" publicKeyToken="26ea41aa3246e153" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ESSAMMOHAMED\elhouusin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Uev+ZGD0lPbV/oRyDLrFE8J5Q7tUz82e3WOM27Qxu6Y=</DigestValue></Reference></SignedInfo><SignatureValue>EoZD7tE7rZ2nCXS0tGTxc3paD0ZJ8SLMF73YlZ5s+ITF5H5NEBV0k0LgINkg0bGwM5txerMpE98Tj7yN9PU+A73HyxA9FiFrkl5XyZk2WBncIjJrK4u34DRYvy3nuryRzIvtmmYugH3PSBXQ66dbQAT9OsAI0DObIdTFxjGnKCQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1iiMdbAKH5ytUzk+NQdVJx0/J82HwlQxLMEye2XHkSqpLmTxbIj5VeEKMUBkAhaMNsSBLnGARq/w485OQh9vhju+HYT9Vw6mLD8lzx7bCMbV1iYQcYQqrjlsjVx94Jc5Li+MDvKpsl+7jCgtx9q8UfYthEYSIQjCKc6hGq67JpU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQKRfvIFRCr71B8elMB9youjANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARQBTAFMAQQBNAE0ATwBIAEEATQBFAEQAXABlAGwAaABvAHUAdQBzAGkAbjAeFw0xNjA2MDExOTU4NTNaFw0xNzA2MDIwMTU4NTNaMDcxNTAzBgNVBAMeLABFAFMAUwBBAE0ATQBPAEgAQQBNAEUARABcAGUAbABoAG8AdQB1AHMAaQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDWKIx1sAofnK1TOT41B1UnHT8nzYfCVDEswTJ7ZceRKqkuZPFsiPlV4QoxQGQCFow2xIEucYBGr/Djzk5CH2+GO74dhP1XDqYsPyXPHtsIxtXWJhBxhCquOWyNXH3glzkuL4wO8qmyX7uMKC3H2rxR9i2ERhIhCMIpzqEarrsmlQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAL43t8BrTaXKp7ISwffRqSpcNj/FHn0edEQFbB5MoOr44Tzjj/m/q9ysq/N96VKnpYYg8y6uHjZd/ClxgoviprxRTryvVw+8CcQllPMTq8dpDUtdMdkgXeCpkdAUrbo3xZ0JHPZh2CNkK37G/H7oVZWHKHiDZHF9lWUdAywrKrY+</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
